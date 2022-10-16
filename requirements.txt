@@ -1,0 +1,7 @@
+tensorflow
+pillow
+opencv-python
+matplotlib
+pandas
+numpy
+easyocr
