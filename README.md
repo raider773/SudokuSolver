@@ -3,4 +3,4 @@ Solve a Sudoku given a picture. Use a combination of Canny Edge Detection, OCR a
 
 Information about the project in docs/SudokuSummary
 
-Main Notebook in models/SudokuSolver
+Main Notebook in models/SudokuSolver.ipynb
