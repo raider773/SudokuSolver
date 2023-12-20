@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pickle
 
 def DetectEdge(path,thr1,thr2):
-    "Apllies CannyEdgeDetection and returns original image and coordinates of edges"
+    "applies Canny Edge Detection and returns the original image and the coordinates of edges"
     img = cv.imread(path)
     img_gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     #Use Canny Edge Detection Algorithm
